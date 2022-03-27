@@ -69,6 +69,8 @@ resource.AddWorkshop("200578293")
 resource.AddWorkshop("2242232335")
 -- wings
 resource.AddWorkshop("358253236")
+-- workshop extras
+resource.AddWorkshop("233077820")
 
 -- == ICONS, THEMES, ETC == --
 -- nord theme
