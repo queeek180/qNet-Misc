@@ -56,7 +56,7 @@ resource.AddWorkshop("1927351939")
 -- udongein
 resource.AddWorkshop("1511722814")
 
--- == TRAILS & PETS == --
+-- == POINTSHOP ITEMS == --
 -- anime trails
 resource.AddWorkshop("639153306")
 -- niandra trails 01
@@ -67,6 +67,8 @@ resource.AddWorkshop("171222056")
 resource.AddWorkshop("200578293")
 -- fumos
 resource.AddWorkshop("2242232335")
+-- wings
+resource.AddWorkshop("358253236")
 
 -- == ICONS, THEMES, ETC == --
 -- nord theme
