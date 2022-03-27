@@ -1,0 +1,23 @@
+{
+	"mapRevoteBanRounds": 2.0,
+	"mapsToVote": 20.0,
+	"voteTime": 20.0,
+	"mapExcludes": [],
+	"mapPrefixes": [
+		"ttt_",
+		"gm_",
+		"hns_",
+		"hs_",
+		"has_",
+		"dm_",
+		"mu",
+		"rp_",
+		"zs_",
+		"psx_",
+		"trade_",
+		"cs_silenthill",
+		"de_haunts",
+		"de_wanda",
+		"de_desert_atrocity_v3",
+	]
+}
